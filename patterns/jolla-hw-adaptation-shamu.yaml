@@ -14,6 +14,7 @@ Requires:
 - droid-config-shamu-flashing
 - droid-config-shamu-bluez5
 - droid-hal-version-shamu
+- droid-hal-shamu-detritus
 
 # Hybris packages
 - libhybris-libEGL
